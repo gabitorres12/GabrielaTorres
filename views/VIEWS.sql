@@ -118,20 +118,6 @@ select * from tb_pais;
 
 
 
-DELIMITER //
-
-CREATE PROCEDURE sp_updatePais(IN id INT, IN nome_pais VARCHAR(45), IN codigo_pais CHAR(3))
-BEGIN
-    UPDATE tb_pais
-    SET nome = nome_pais, codigo = codigo_pais
-    WHERE id_pais = id;
-END //
-
-DELIMITER ;
-
-
-CALL sp_updatePais(1, 'ANGOLA', 'NOV');
-
 
 
 
