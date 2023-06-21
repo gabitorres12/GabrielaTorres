@@ -80,12 +80,8 @@ Este projeto tem intuito de demonstrar o conteudo aprendido em sala de aula no c
 
 ## Contatos
 
-|  [![Linkedin](/img/icons8-linkedin-48.png)](https://seulinkaqui.com)| [![Instagram](/img/icons8-instagram-48.png)](https://seulinkaqui.com) |[![Email](/img/icons8-email-48.png)](https://seulinkaqui.com) | 
-|-----------|-----------|-----------|-----------|-----------|
+[![Linkedin](/img/icons8-linkedin-48.png)](https://seulinkaqui.com)[![Instagram](/img/icons8-instagram-48.png)](https://seulinkaqui.com)[![Email](/img/icons8-email-48.png)](https://seulinkaqui.com)
+
 
 </div>
-bbbjjbjkb
 
-jkjkjdkjfkj
-git start
-git git
